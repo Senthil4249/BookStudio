@@ -2,9 +2,9 @@
 
 body {
   background-color: rgb(230, 19, 19);
-  background-image: url("./images/city-day.jpeg");
+  /* background-image: url("./images/city-day.jpeg");
   background-size: cover;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat; */
 }
 
 .card {
