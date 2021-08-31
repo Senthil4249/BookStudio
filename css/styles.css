@@ -1,0 +1,16 @@
+/* OM murugna Thunai */
+
+body {
+  background-color: rgb(238, 228, 228);
+}
+
+.card {
+  height: 100%;
+  border: 1px solid rgb(10, 175, 167);
+  margin-top: 10px;
+}
+
+h4 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-weight: bold;
+}
